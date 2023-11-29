@@ -1,0 +1,28 @@
+{
+    "schools": [ {
+        "school": "Boston University",
+        "program": "Software Development",
+        "type": "MS",
+        "location": "Massachusetts, USA",
+        "year Conferred": 2023
+      },
+  
+      {
+        "school": "University of South Carlifornia",
+        "program": "International Trade",
+        "type": "BA",
+        "location": "Los Angeles, USA",
+        "year Conferred": 2014
+      },
+  
+      {
+        "school": "Pasadena High School",
+        "program": "English",
+        "type": "Certificate",
+        "location": "Hyogo, Japan",
+        "year Conferred": 2011
+      }
+      
+    ]
+  }
+  
