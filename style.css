@@ -97,7 +97,7 @@ td {
 }
 
 tr:not(:first-child):hover {
-  background-color: rgba(1, 2, 2, 1);
+  background-color: rgb(238, 235, 231);
   transform: scale(1.1);
   animation: glowing-border 1.5s infinite alternate;
 }
