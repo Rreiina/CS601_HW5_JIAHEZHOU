@@ -1,12 +1,8 @@
-/**
-CS 601 - Assignment 5
-JavaScript that performs:
--event on mouse-click
-i. Create a fetch request to return a promise
-ii. Resolve the promise using the Response class
-iii. Check the status code of the response
-iv. Process the returned JSON data using JavaScript
-*/
+//JavaScript that performs: event on mouse-click
+//i. Create a fetch request to return a promise
+//ii. Resolve the promise using the Response class
+//iii. Check the status code of the response
+//iv. Process the returned JSON data using JavaScript
 
 // Wait for the DOM content 
 document.addEventListener("DOMContentLoaded", () => {
